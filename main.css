@@ -1,0 +1,263 @@
+/*Base styles*/
+body{
+	font-family: 'Open Sans',sans-serif;
+	font-size: 15px;
+	color: #ffffff;
+	text-transform: lowercase;
+	background-color: #301934;
+	width: 1200px;
+	height:3300px:
+}
+
+/*Height*/
+
+header{
+	height: 550px;
+	width: 100%;
+	background: url("img/hero-background.png");
+	background-size: cover;
+	background-position: right;
+	background-repeat: none;
+}
+
+#my-portfolio{
+	height: 1550px;
+	margin-top: 50px;
+}
+
+.rogue{
+width:1200px;
+height:517px;
+margin-top: 50px;
+}
+
+.jubilee{
+	width:1200px;
+	height:517px;
+}
+
+.recipe{
+	width:1200px;
+	height:517px;
+}
+#about-me{
+	height:550px;
+	width:100%;
+	background: url("img/about-me.png");
+	background-size: cover;
+	background-position: center;
+
+}
+
+#connect{
+	height:400px;
+}
+
+
+/*WIDTH*/
+
+.third-width{
+	width: 300px;
+}
+
+
+/*Header Styles*/
+h1{
+	font-family: 'Monoton', cursive;
+	font-weight:400;
+	font-size: 50px;
+	color: #ffffff;
+	margin-left:100px;
+	line-height: 105px;
+	}
+
+h1 span{
+	color: #ffb6c1;
+	text-decoration: underline;
+	font-size: 48px;
+	font-weight:400;
+	}
+
+h2{
+	font-family: 'Monoton', cursive;
+	color: #ffffff;
+	font-size:25px;
+	color: #ffb6c1;
+	margin-top: 10px;
+	text-transform: capitalize;
+	text-align:center;
+	padding-top: 20px;
+	text-shadow: 4px 6px #5a5a5a;
+
+	}
+
+h3{
+	font-family: 'Raleway', sans-serif;
+	font-weight:700;
+	font-size: 15px;
+	color: #ffffff;
+	text-transform: capitalize;
+}
+
+h4{
+	 font-family: 'Open-sans', sans-serif;
+	 font-size: 15px;
+	 color:inherit;
+}
+
+
+h6{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size:10px;
+	color: #ffb6c1;
+	text-transform:capitalize;
+}
+
+/*Intro*/
+
+.intro{
+	margin-left:5px;
+	display: inline-block;
+}
+
+.nav h3{
+	margin-left:100px;
+	color: #ffffff;
+	text-shadow:2px 2px #d11d53;
+
+}
+
+.nav ul{
+	list-style-type:none;
+	color: #000000;
+	clear:both;
+	float:right;
+}
+
+.nav ul li{
+	display:inline;
+	margin-right:10px;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-shadow: 2px 2px #d11d53;
+	color:#000000;
+}
+
+.nav a{
+	color:#ffffff;
+}
+
+.intro h1{
+	padding-top: 250px;
+}
+
+
+
+/*styles*/
+
+#my-portfolio{
+	font-family: "Raleway", sans-serif;
+}
+
+.rogue-image{
+	width: 400px;
+	height: 75px;
+	margin-left: 100px;
+}
+
+.rogue-info{
+float: right;
+margin-right: 100px;
+margin-bottom:20px;
+line-height:25px;
+clear: both;
+text-align: right;
+}
+
+.rogue-info h3{
+	line-height:20px;
+	margin-top: 5px;
+}
+
+
+/*jubilee Style*/
+
+.jubilee-image{
+	width: 400px;
+	height: 75px;
+	margin-right: 100px;
+	margin-left:200px;
+}
+
+.jubilee-info{
+	float: left;
+	margin-left: 100px;
+	clear: both;
+	margin-right:100px;
+	margin-top: 10px;
+	line-height: 25px;
+}
+
+.jubilee-info h3{
+	line-height:20px;
+	margin-top: 5px;
+}
+
+
+/*Recipe*/
+
+.recipe-info{
+	float: right;
+	margin-right: 70px;
+	clear: both;
+	margin-left:70px;
+	line-height: 25px;
+	margin-bottom: 30px;
+}
+
+.recipe-image{
+	width: 400px;
+	height: 75px;
+	margin-left: 100px;
+	margin-right:100px;
+	float:left;
+}
+
+.recipe-info h3{
+	line-height:20px;
+	margin-top: 5px;
+}
+
+
+/*About me*/
+
+.about-info{
+	float: left;
+	margin-right: 70px;
+	clear: both;
+	margin-left:70px;
+	line-height: 25px;
+	margin-bottom: 30px;
+	color: #000000;
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+
+/*Lets Connect*/
+
+#connect {
+	text-align: center;
+}
+#connect .third-width{
+	float:left;
+	margin-left:75px;
+	margin-top:30px;
+}
+
+/*FOOTER*/
+
+footer{
+	text-align:center;
+	font-family: 'Monoton', sans-serif;
+	font-size: 25px;
+}

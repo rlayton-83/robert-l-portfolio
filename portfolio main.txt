@@ -1,0 +1,29 @@
+            <div class="jubilee-austen">
+              <div class="jubilee-info">
+                <h3>Jubilee Austeen Project</h3>
+                <h3>HTML5 & CSS Website</h3>
+                <p>This is the firt website created as a static single page site with in page links.<br>
+                Acts as a profile/business page for<br> employers to visit when considering the individual.<br>
+                created from a design comp on adobe photoshop,<br> with customized fonts and all the information<br>
+                provided by the user implemented in a delightfully thoughtful way<br>
+                that showcases their talent and their ability to succeed.
+                </p>
+              </div>
+                  <a href="http://www.daydreamdesignsstudio.com/"><img src="img/jubilee-thumbnail.png" alt="Jubilee Austen Website" /></a>
+          </div>
+
+          <div class= "full-width">
+            <div class="recipe">
+                <a href="http://www.recipe.daydreamdesignsstudio.com/">
+                  <img src="img/recipe-thumbnail.png" alt="recipe card"></a>
+            </div>
+            <div class="half-width">
+                  <h3>Recipe Collection</h3>
+                  <h3>HTML5 & CSS Exercise</h3>
+                  <p>Because baking is a necessity.<br> Sometimes you don't want to have to think about ingredients.<br>
+                    So recipe cards are what cooki'n.<br> Get your culinary fix with recipe cards that help you make the<br>
+                    perfect dessert or meal. <br>These cards were used to explore the use of <br>id, and div selectors. <br> Then floating
+                    and clearing them showing what css has to offer.
+                  </p>
+            </div>
+          </div>
